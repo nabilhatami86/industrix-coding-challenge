@@ -16,7 +16,7 @@ npm install
 ## **2. Environment (.env)**
 
 ```
-DB_URL=postgres://username:password@localhost:5432/industrix_db
+PORT=4000
 ```
 
 ## **3. Migrate + Seed**
